@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danivdmijl
+- 👋 Hi, I’m Dani
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, JS & PhP.
 
