@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dani
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JS, SCSS & JSON.
+- 🌱 I’m currently learning HTML, CSS, JS, SASS, JSON, Tailwind, React & Laravel!.
 
 <!---
 Danivdmijl/Danivdmijl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
